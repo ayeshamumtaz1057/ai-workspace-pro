@@ -29,7 +29,7 @@ Free tier: 1 GB RAM, public repos, app sleeps after inactivity and wakes on visi
 
    ```toml
    GEMINI_API_KEY = "your_key_here"
-   GEMINI_MODEL = "gemini-1.5-flash"
+   GEMINI_MODEL = "gemini-3.6-flash"
    ```
 
 4. Deploy. `packages.txt` installs Tesseract automatically, so OCR works.
