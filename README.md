@@ -79,9 +79,9 @@ anywhere except the specific text you submit to the model.
 
 > Add your demo video link here.
 
-**Full walkthrough:** [Watch on LinkedIn](#)
+**Full walkthrough:** [Watch on LinkedIn](https://www.linkedin.com/in/ayesha-mumtaz-82b8913a9/)
 
-**Live app:** [ai-workspace-pro.streamlit.app](#)
+**Live app:** [ai-workspace-pro.streamlit.app](https://ai-workspace-pro-omhnybsccue8476d7fruqd.streamlit.app/)
 
 ---
 
