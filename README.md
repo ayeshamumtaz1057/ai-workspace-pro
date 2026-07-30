@@ -18,7 +18,7 @@
 AI Workspace Pro is a focused AI workspace built around four production tools — an **AI Data
 Analyst**, **RAG-based PDF Intelligence**, a memory-backed **AI Assistant**, and an
 **Automation Center** — running locally, containerised with Docker, with history stored in a
-SQLite database you own.
+SQLite database you own
 
 [Overview](#overview) · [Demo](#demo) · [Screenshots](#screenshots) · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [Retrieval Engine](#retrieval-engine) · [Getting Started](#getting-started) · [Deployment](#deployment) · [Troubleshooting](#troubleshooting)
 
