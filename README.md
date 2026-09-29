@@ -1,5 +1,5 @@
 <div align="center">  
-
+ 
 # 🧠 AI Workspace Pro
  
 ### A focused AI workspace — data analysis, PDF intelligence, chat, and automation in one dashboard
