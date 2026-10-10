@@ -2,7 +2,7 @@
  
 # 🧠 AI Workspace Pro 
     
-### A focused AI workspace — data analysis, PDF intelligence, chat, and automation in one dashboard
+### A focused AI workspace — data analysis, PDF intelligence, chat, and automation in one dashboard 
  
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
